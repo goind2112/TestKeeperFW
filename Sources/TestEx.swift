@@ -8,7 +8,7 @@
 import UIKit
 import EasyPeasy
 
-extension UIView {
+public extension UIView {
     func loadingIndicator(_ show: Bool, centerYInset: CGFloat = 0, color: UIColor = .white, style: UIActivityIndicatorView.Style = .medium, isBlur: Bool = false) {
         
         let bacView = UIView()

@@ -4,7 +4,7 @@ Pod::Spec.new do |spec|
   spec.license                = { :type => 'BSD' }
   spec.summary                = 'Test'
   spec.homepage               = 'https://github.com/goind2112/TestKeeperFW'
-  spec.authors                = 'Daniil'
+  spec.authors                = { 'Danill M' => 'goind@mail.ru' }
   spec.source                 = { :git => 'https://github.com/goind2112/TestKeeperFW.git', :tag => spec.version.to_s }
   spec.source_files           = 'Sources/*.swift'
   spec.swift_version          = '5.7'
