@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name                   = 'TestKeeperFW'
-  spec.version                = '1.0.0'
+  spec.version                = '1.0.1'
   spec.license                = { :type => 'BSD' }
   spec.summary                = 'Test'
   spec.homepage               = 'https://github.com/goind2112/TestKeeperFW'
